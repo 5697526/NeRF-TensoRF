@@ -90,4 +90,4 @@ python train.py  --config configs/your_object.txt --render_only 1 --render_test 
 
 ### 五、模型权重与可视化结果下载
 
-渲染图像环绕视频以及权重模型均存储在我的[网盘](https://pan.baidu.com/s/1LUCqkAfinvkrUpj7BcvYjA?pwd=pprh)：https://pan.baidu.com/s/1LUCqkAfinvkrUpj7BcvYjA?pwd=pprh 提取码: pprh
+渲染图像环绕视频以及权重模型均存储在我的[网盘](https://pan.baidu.com/s/1a8fQlMmwmmY1ND1NMHLDyA?pwd=jkwy)：https://pan.baidu.com/s/1a8fQlMmwmmY1ND1NMHLDyA?pwd=jkwy 提取码: jkwy
