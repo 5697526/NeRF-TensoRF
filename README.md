@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 #### 2. 运行 COLMAP 处理
 
-在 COLMAP 中依次执行：`Feature Extraction` → `Feature Matching` → `Sparse Reconstruction`，生成相机位姿与稀疏点云，处理结果存储在：
+在 COLMAP 中依次执行：`Feature Extraction` → `Feature Matching` → `Sparse Reconstruction`，生成相机位姿与稀疏点云，处理结果储存在：
 
 sparse/：稀疏点云与相机位姿文件
 
